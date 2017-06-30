@@ -1,0 +1,4 @@
+version: '3'
+services:
+  spamd: 
+    image: emergya/spamd:latest
